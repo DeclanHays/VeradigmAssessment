@@ -42,7 +42,6 @@ app.post("/home", (request, response) => {
       chosenDoc = parsedList.doctors[i];
     }
   }
-  console.log(chosenDoc.location);
 
   // Sorts doctors based on location of chosen doctor
   parsedList.doctors.sort( (a,b) => {
