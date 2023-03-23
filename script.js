@@ -4,7 +4,6 @@ const ejs = require("ejs");
 const express = require("express");
 const { parse } = require("path");
 const bodyParser = require("body-parser"); /* To handle post parameters */
-const portNumber = 5000;
 const app = express();
 
 const doctorsList = require('./doctors.json');
@@ -82,4 +81,4 @@ app.post("/home", (request, response) => {
   response.render("doctorDisplay", variables);
 });
 
-app.listen(process.env.PORT);
+app.listen(process.env.PORT || 80);
