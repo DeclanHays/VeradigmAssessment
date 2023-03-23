@@ -1,0 +1,292 @@
+{
+  "doctors": [
+    {
+      "name": "Dr. John Smith",
+      "specialty": "Cardiology",
+      "location": "New York",
+      "rating": 4.8
+    },
+    {
+      "name": "Dr. Jane Doe",
+      "specialty": "Pediatrics",
+      "location": "New York",
+      "rating": 4.5
+    },
+    {
+      "name": "Dr. Michael Lee",
+      "specialty": "Dermatology",
+      "location": "New York",
+      "rating": 4.9
+    },
+    {
+      "name": "Dr. Sarah Kim",
+      "specialty": "Oncology",
+      "location": "San Francisco",
+      "rating": 4.7
+    },
+    {
+      "name": "Dr. David Chen",
+      "specialty": "Neurology",
+      "location": "Boston",
+      "rating": 4.6
+    },
+    {
+      "name": "Dr. Samantha Lee",
+      "specialty": "Psychiatry",
+      "location": "Miami",
+      "rating": 4.7
+    },
+    {
+      "name": "Dr. William Brown",
+      "specialty": "Orthopedics",
+      "location": "Houston",
+      "rating": 4.9
+    },
+    {
+      "name": "Dr. Olivia Jones",
+      "specialty": "Gynecology",
+      "location": "San Diego",
+      "rating": 4.6
+    },
+    {
+      "name": "Dr. Thomas Kim",
+      "specialty": "Endocrinology",
+      "location": "Atlanta",
+      "rating": 4.5
+    },
+    {
+      "name": "Dr. Katherine Davis",
+      "specialty": "Rheumatology",
+      "location": "Denver",
+      "rating": 4.8
+    },
+    {
+      "name": "Dr. Ethan Johnson",
+      "specialty": "Gastroenterology",
+      "location": "Dallas",
+      "rating": 4.7
+    },
+    {
+      "name": "Dr. Sophia Rodriguez",
+      "specialty": "Family Medicine",
+      "location": "Seattle",
+      "rating": 4.6
+    },
+    {
+      "name": "Dr. Alexander Wong",
+      "specialty": "Ophthalmology",
+      "location": "Las Vegas",
+      "rating": 4.9
+    },
+    {
+      "name": "Dr. Emily Martinez",
+      "specialty": "Allergy & Immunology",
+      "location": "Washington D.C.",
+      "rating": 4.5
+    },
+    {
+      "name": "Dr. Daniel Kim",
+      "specialty": "Urology",
+      "location": "Philadelphia",
+      "rating": 4.7
+    },
+    {
+      "name": "Dr. Rachel Lee",
+      "specialty": "Pulmonology",
+      "location": "San Antonio",
+      "rating": 4.8
+    },
+    {
+      "name": "Dr. Joseph Chang",
+      "specialty": "Hematology & Oncology",
+      "location": "New Orleans",
+      "rating": 4.6
+    },
+    {
+      "name": "Dr. Ava Garcia",
+      "specialty": "Infectious Diseases",
+      "location": "Orlando",
+      "rating": 4.9
+    },
+    {
+      "name": "Dr. Michael Brown",
+      "specialty": "Neurology",
+      "location": "Boston",
+      "rating": 4.8
+    },
+    {
+      "name": "Dr. Rachel Patel",
+      "specialty": "Gastroenterology",
+      "location": "Dallas",
+      "rating": 4.6
+    },
+    {
+      "name": "Dr. William Chen",
+      "specialty": "Orthopedics",
+      "location": "Seattle",
+      "rating": 4.4
+    },
+    {
+      "name": "Dr. Lisa Jackson",
+      "specialty": "Psychiatry",
+      "location": "Miami",
+      "rating": 4.3
+    },
+    {
+      "name": "Dr. Robert Davis",
+      "specialty": "Urology",
+      "location": "Philadelphia",
+      "rating": 4.5
+    },
+    {
+      "name": "Dr. Elizabeth Wong",
+      "specialty": "Allergy & Immunology",
+      "location": "Atlanta",
+      "rating": 4.2
+    },
+    {
+      "name": "Dr. Daniel Nguyen",
+      "specialty": "Rheumatology",
+      "location": "San Diego",
+      "rating": 4.7
+    },
+    {
+      "name": "Dr. Emily Wilson",
+      "specialty": "Obstetrics & Gynecology",
+      "location": "Denver",
+      "rating": 4.5
+    },
+    {
+      "name": "Dr. Kevin Patel",
+      "specialty": "Pulmonology",
+      "location": "Houston",
+      "rating": 4.3
+    },
+    {
+      "name": "Dr. Anna Patel",
+      "specialty": "Ophthalmology",
+      "location": "Boston",
+      "rating": 4.6
+    },
+    {
+      "name": "Dr. Marcus Ramirez",
+      "specialty": "Psychiatry",
+      "location": "Miami",
+      "rating": 4.1
+    },
+    {
+      "name": "Dr. Olivia Chen",
+      "specialty": "Rheumatology",
+      "location": "Seattle",
+      "rating": 4.3
+    },
+    {
+      "name": "Dr. William Kim",
+      "specialty": "Neurology",
+      "location": "Washington D.C.",
+      "rating": 4.8
+    },
+    {
+      "name": "Dr. Lea Nguyen",
+      "specialty": "Dentistry",
+      "location": "Dallas",
+      "rating": 4.5
+    },
+    {
+      "name": "Dr. Michaela Wong",
+      "specialty": "Gastroenterology",
+      "location": "Phoenix",
+      "rating": 4.7
+    },
+    {
+      "name": "Dr. Gabriel Hernandez",
+      "specialty": "Orthopedics",
+      "location": "Phoenix",
+      "rating": 4.2
+    },
+    {
+      "name": "Dr. Maria Cruz",
+      "specialty": "Hematology",
+      "location": "Philadelphia",
+      "rating": 4.4
+    },
+    {
+      "name": "Dr. Ethan Chen",
+      "specialty": "Allergy and Immunology",
+      "location": "San Antonio",
+      "rating": 4.9
+    },
+    {
+      "name": "Dr. Zoe Lee",
+      "specialty": "Geriatrics",
+      "location": "Atlanta",
+      "rating": 4.0
+    },
+    {
+      "name": "Dr. Natasha Singh",
+      "specialty": "Infectious Diseases",
+      "location": "Toronto",
+      "rating": 4.5
+    },
+    {
+      "name": "Dr. Hugo Fernandez",
+      "specialty": "Urology",
+      "location": "Denver",
+      "rating": 4.3
+    },
+    {
+      "name": "Dr. Kiara Lee",
+      "specialty": "Obstetrics and Gynecology",
+      "location": "Atlanta",
+      "rating": 4.7
+    },
+    {
+      "name": "Dr. Nicolas Delgado",
+      "specialty": "Pulmonology",
+      "location": "Philadelphia",
+      "rating": 4.1
+    },
+    {
+      "name": "Dr. Jasmine Kim",
+      "specialty": "Rheumatology",
+      "location": "Miami",
+      "rating": 4.8
+    },
+    {
+      "name": "Dr. Aditi Gupta",
+      "specialty": "Endocrinology",
+      "location": "Seattle",
+      "rating": 4.4
+    },
+    {
+      "name": "Dr. Omar Ali",
+      "specialty": "Dermatology",
+      "location": "Dallas",
+      "rating": 4.6
+    },
+    {
+      "name": "Dr. Emma Chen",
+      "specialty": "Pediatrics",
+      "location": "New Orleans",
+      "rating": 4.2
+    },
+    {
+      "name": "Dr. Sebastian Castillo",
+      "specialty": "Cardiology",
+      "location": "San Antonio",
+      "rating": 4.9
+    },
+    {
+      "name": "Dr. Sophie Kim",
+      "specialty": "Oncology",
+      "location": "Denver",
+      "rating": 4.5
+    },
+    {
+      "name": "Dr. Gabriel Garcia",
+      "specialty": "Neurology",
+      "location": "Boston",
+      "rating": 4.2
+    }
+  ]
+}
