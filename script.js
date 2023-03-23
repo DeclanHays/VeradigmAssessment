@@ -63,12 +63,14 @@ app.post("/home", (request, response) => {
   table += "<td>" + "<strong>Stars / 5<strong>" + "</td>";
   table += "</tr>";
   for (let i = 0; i < parsedList.doctors.length; i++) {
-    table += "<tr>";
-    table += "<td>" + parsedList.doctors[i].name + "</td>";
-    table += "<td>" + parsedList.doctors[i].specialty + "</td>";
-    table += "<td>" + parsedList.doctors[i].location + "</td>";
-    table += "<td>" + parsedList.doctors[i].rating + "</td>";
-    table += "</tr>";
+    if (parsedList.doctors[i].location === chosenDoc.location) {
+      table += "<tr>";
+      table += "<td>" + parsedList.doctors[i].name + "</td>";
+      table += "<td>" + parsedList.doctors[i].specialty + "</td>";
+      table += "<td>" + parsedList.doctors[i].location + "</td>";
+      table += "<td>" + parsedList.doctors[i].rating + "</td>";
+      table += "</tr>";
+    }
   }
 
   let doc = chosenDoc.name + ", " + chosenDoc.specialty + ", " + chosenDoc.location + ", " + chosenDoc.rating
